@@ -1,0 +1,38 @@
+{
+  "image_id": "images10",
+  "image_filename": "images10.jpeg",
+  "image_path": "data/images/images10.jpeg",
+  "analysis": {
+    "image_summary": "A close-up view of professionals reviewing plans, performing calculations, and taking notes around a table with drafting tools and a hard hat.",
+    "construction_phase": "Pre-construction / Planning and Design",
+    "activities": [
+      "Writing and annotating calculations on paper",
+      "Measuring or drafting using a compass divider",
+      "Holding a digital device or calculator for consultation",
+      "Collaborative review of project documents"
+    ],
+    "materials": [
+      "Paper documents and notebooks",
+      "Cardboard folders"
+    ],
+    "equipment": [
+      "Yellow hard hat",
+      "Drafting compass",
+      "Spirit level",
+      "Pens and pencils",
+      "Smartphone or handheld electronic device"
+    ],
+    "structural_elements": [],
+    "workers": [
+      "Three individuals in dark collared shirts and blazers working at a table"
+    ],
+    "safety_hazards": [],
+    "site_conditions": [
+      "Indoor office or site trailer setting",
+      "Adequately lit workspace"
+    ],
+    "progress_indicators": [
+      "Active engineering calculations and plan review"
+    ]
+  }
+}

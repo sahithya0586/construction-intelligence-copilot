@@ -1,0 +1,53 @@
+{
+  "image_id": "images1",
+  "image_filename": "images1.jpeg",
+  "image_path": "data/images/images1.jpeg",
+  "analysis": {
+    "image_summary": "Construction site with a multi-story concrete and masonry building under scaffolding, while four site personnel in safety gear inspect and review plans.",
+    "construction_phase": "Superstructure and exterior masonry",
+    "activities": [
+      "Site inspection and coordination",
+      "Reviewing project details on a digital tablet",
+      "Walking through the active construction area"
+    ],
+    "materials": [
+      "Cast-in-place concrete",
+      "Red clay bricks / infill masonry blocks",
+      "Steel scaffolding poles",
+      "Timber boards and beams",
+      "Plastic storage containers/drums"
+    ],
+    "equipment": [
+      "Full-facade scaffolding system",
+      "Handheld digital tablet",
+      "Small concrete/mortar mixer drum in the background"
+    ],
+    "structural_elements": [
+      "Reinforced concrete columns",
+      "Concrete floor slabs",
+      "Balcony projections",
+      "Exterior masonry infill walls",
+      "Window and door rough openings"
+    ],
+    "workers": [
+      "One person in an orange hi-vis vest, blue hard hat, pointing while holding/viewing a tablet",
+      "One person in a yellow hi-vis vest, white hard hat, holding a tablet/document",
+      "Two people in yellow hi-vis vests and hard hats standing further back in conversation"
+    ],
+    "safety_hazards": [
+      "Uneven rocky terrain and loose gravel presenting trip hazards",
+      "Timber and material debris lying near the foreground travel paths",
+      "Proximity to active scaffolding structures"
+    ],
+    "site_conditions": [
+      "Dry, sunny outdoor environment",
+      "Rough, unpaved gravel and soil ground surface",
+      "Active building site with materials staged outdoors"
+    ],
+    "progress_indicators": [
+      "Concrete frame completed across multiple levels",
+      "Scaffolding fully erected across the main elevation",
+      "Exterior brick infill walls partially laid on lower and middle floors"
+    ]
+  }
+}
