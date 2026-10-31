@@ -1,3 +1,4 @@
+import os
 import sys
 from pathlib import Path
 
@@ -13,6 +14,11 @@ RAG_PATH = PROJECT_ROOT / "app" / "rag"
 if str(RAG_PATH) not in sys.path:
     sys.path.insert(0, str(RAG_PATH))
 
+# Load Gemini API key from Streamlit Cloud secrets
+try:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    pass
 
 # ============================================================
 # RAG IMPORTS
