@@ -1,4 +1,14 @@
 # 🏗️ Construction Intelligence Copilot
+## 🚀 Live Demo
+
+**Try the deployed application:** [Construction Intelligence Copilot](https://construction-intelligence-copilot.streamlit.app/)
+
+Explore construction document retrieval, construction-site image understanding, semantic search, and AI-generated evidence-based answers.
+
+**Source Code:** [GitHub Repository](https://github.com/sahithya0586/construction-intelligence-copilot)
+
+---
+
 
 > A multimodal Retrieval-Augmented Generation (RAG) system for construction document and construction-site image intelligence using semantic search, vector databases, and Gemini vision-language capabilities.
 
